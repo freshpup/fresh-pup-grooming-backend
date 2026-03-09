@@ -4,4 +4,5 @@ django==3.2
 requests==2.26.0
 numpy>1.26
 pymongo[srv]
+gunicorn
 # Add other dependencies as necessary...
