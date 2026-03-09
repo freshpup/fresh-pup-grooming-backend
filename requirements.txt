@@ -6,4 +6,5 @@ numpy>1.26
 pymongo[srv]
 gunicorn
 flask
+pymongo
 # Add other dependencies as necessary...
