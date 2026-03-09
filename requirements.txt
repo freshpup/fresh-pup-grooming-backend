@@ -7,4 +7,5 @@ pymongo[srv]
 gunicorn
 flask
 pymongo
+python-dotenv
 # Add other dependencies as necessary...
